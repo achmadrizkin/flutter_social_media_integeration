@@ -1,16 +1,23 @@
-# flutter_auth
+# ✔️ Flutter Covid Tracker App
 
-A new Flutter project.
+A Flutter app based on the design of the Social Media Integeration App, created by *Achmad Rizki Nur Fauzie*,
 
-## Getting Started
+## Features
+- Login with google
+- Login with Facebook
+- After Login, show details ( profile picture, name, email )
+- Clean Code
+- Clean UI
+- 
+## Getting Started 🚀
 
-This project is a starting point for a Flutter application.
+```shell
+- Clone the repo
+- Install the dependicies
+- Run it
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Preview App
+![iphone-mockup-scene@2x](https://user-images.githubusercontent.com/75843138/133869389-52e01af0-5571-424c-b9c8-4fee0c053f85.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/75843138/133869227-797451f1-f8d5-4d73-bcfb-ea3c43e8be08.jpg" alt="alt text" width="300" height="600"> <img src="https://user-images.githubusercontent.com/75843138/133869231-2ea19d22-ccef-498f-b9f6-e1bc3fc10d8b.jpg" alt="alt text" width="300" height="600">
