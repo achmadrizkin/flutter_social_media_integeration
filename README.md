@@ -1,4 +1,4 @@
-# ✔️ Flutter Covid Tracker App
+# ✔️ Flutter Social Media Integeration
 
 A Flutter app based on the design of the Social Media Integeration App, created by *Achmad Rizki Nur Fauzie*,
 
@@ -8,7 +8,6 @@ A Flutter app based on the design of the Social Media Integeration App, created 
 - After Login, show details ( profile picture, name, email )
 - Clean Code
 - Clean UI
-- 
 ## Getting Started 🚀
 
 ```shell
